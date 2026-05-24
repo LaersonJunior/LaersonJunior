@@ -1,23 +1,72 @@
-<h1 align="center">Olá👋, Eu sou Laerson Junior</h1>
-<h3 align="center">Procurando, extraindo e analisando dados.</h3>
+# Laerson Junior
 
-- 🌱 Atualmente aprimorando os conhecimentos na linguagem **Python e Machine Learning**
+Senior Data Engineer & Analytics Specialist | Python · SQL · dbt · Power BI · Cloud
 
-- 👯 Utilizo a LinkedIn para compartilhar com algumas ideias de Análises e visualizações. [https://www.linkedin.com/in/laersonjunior/](https://www.linkedin.com/in/laersonjunior/)
+---
 
-- 💬 Pode me perguntar sobre **Power BI, Excel, SQL e logo mais Python**
+## About
 
-- 📫 Pode me procurar pelo: **laersontamorim@gmail.com**
+Data engineer and analytics specialist with solid experience across the full data lifecycle — from pipeline architecture to analytical delivery and predictive modeling. My work connects reliable data infrastructure with actionable intelligence for business decision-making.
 
-- 📄 Saiba sobre minhas experiências [https://www.linkedin.com/in/laersonjunior/](https://www.linkedin.com/in/laersonjunior/)
+I design and maintain modern data platforms while also delivering descriptive and predictive analytics that drive measurable outcomes.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/laersonjunior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laersonjunior/" height="30" width="40" /></a>
-<a href="https://instagram.com/laersonjunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laersonjunior" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Core competencies
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laersonsp&show_icons=true&locale=en&layout=compact" alt="laersonsp" /></p>
+**Data Engineering**
+- ELT pipeline architecture with observability and data quality checks
+- Dimensional and analytical modeling (Star Schema, OBT, Data Vault)
+- Performance tuning in large-scale SQL environments
+- Data contract patterns for pipeline reliability
+
+**Descriptive Analytics**
+- KPI definition, metric layer design and semantic modeling
+- Executive dashboards and self-service BI with Power BI
+- DAX advanced modeling, row-level security, incremental refresh
+- Storytelling with data — translating complexity into clear business insight
+
+**Predictive Analytics**
+- Supervised learning models for classification and regression
+- Time series forecasting for demand and business metrics
+- Feature engineering and model validation pipelines
+- Integration of ML outputs into BI and operational workflows
+
+---
+
+## Tech stack
+
+```
+Languages    Python · SQL · DAX · Bash
+Transform    dbt · Spark · Pandas · Polars · Scikit-learn
+BI & Viz     Power BI · DAX Studio · Fabric · Matplotlib · Seaborn
+Orchestr.    Apache Airflow · Prefect
+Warehouses   BigQuery · Snowflake · Redshift · DuckDB
+ML & Stats   Scikit-learn · XGBoost · Statsmodels · Prophet
+Version      Git · GitHub Actions · dbt Cloud CI
+Infra        Docker · Terraform · AWS · GCP
+```
+
+---
+
+## Currently working on
+
+- Semantic layer standardization using dbt Metrics + MetricFlow
+- Predictive models integrated directly into Power BI via Python visuals
+- Cost optimization strategies in cloud data warehouses
+- Data contract patterns for end-to-end pipeline reliability
+
+---
+
+## Principles
+
+> Clean data starts with clean models. A metric no one trusts is worse than no metric at all.
+
+- Descriptive before predictive — understand the data before modeling it
+- Documentation and testing as part of every deliverable
+- Data quality as a first-class concern, not an afterthought
+- BI as a product, not a report factory
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-laersonjunior-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/laersonjunior)
